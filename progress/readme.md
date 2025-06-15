@@ -31,7 +31,7 @@ import (
 
 	"github.com/go-telegram/bot"
 	"github.com/go-telegram/bot/models"
-	"github.com/go-telegram/ui/progress"
+	"github.com/olegroom/ui/progress"
 )
 
 func main() {
